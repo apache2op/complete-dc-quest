@@ -3,6 +3,8 @@
 > [!NOTE]
 > This does not works in browser for quests which require you to play a game! Use the [desktop app](https://discord.com/download) to complete those.
 
+How to enable DevTools in Discord: [link](https://www.youtube.com/watch?v=9Pn5WZ4yJOk)
+
 How to use this script:
 1. Accept a quest under Discover -> Quests
 2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> to open DevTools
@@ -191,4 +193,4 @@ if(quests.length === 0) {
 
 You can track the progress by looking at the `Quest progress:` prints in the Console tab, or by looking at the progress bar in the quests tab.
 
-Thanks to [Amia](https://github.com/aamiaa), for faq or doubts related to this code, you can visit : [CompleteDiscordQuest](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
+Thanks to [Amia](https://github.com/aamiaa) for the script. For FAQ or doubts related to this code, you can visit : [CompleteDiscordQuest](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
