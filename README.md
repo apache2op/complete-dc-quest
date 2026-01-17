@@ -193,4 +193,4 @@ if(quests.length === 0) {
 
 You can track the progress by looking at the `Quest progress:` prints in the Console tab, or by looking at the progress bar in the quests tab.
 
-Thanks to [Amia](https://github.com/aamiaa) for the script. For FAQ or doubts related to this code, you can visit : [CompleteDiscordQuest](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
+Thanks to [Amia](https://github.com/aamiaa) for the script. For FAQ or doubts related to this script, you can visit : [CompleteDiscordQuest](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
